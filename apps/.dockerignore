@@ -6,3 +6,4 @@ Dockerfile
 coverage/
 node_modules/
 .dockerignore
+Dockerfile
